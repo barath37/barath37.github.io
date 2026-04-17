@@ -257,7 +257,7 @@ h2 {
   font-size: 1.19em;
   font-style: italic;
   line-height: 1.8;
-  padding: 24px 32px;
+  padding: 24px 24px;
   max-width: 405px;
   width: 88%;
   text-align: center;
@@ -277,6 +277,13 @@ h2 {
   cursor: pointer;
   font-style: normal;
   text-decoration: underline;
+}
+
+.favicon-img {
+  max-width: 360px;
+  max-height: 360px;
+  margin: 2px 0;
+  border-radius: 4px;
 }
 
 .egg-close:hover {
